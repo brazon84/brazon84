@@ -1,7 +1,7 @@
 ### JOSE GREGORIO BRAZON LOPEZ 👋
 
 **brazon84/brazon84** 
-hola que tal **amigos** este es parte de mi carrera o tryectoria como **Desarrollador Web**
+# hola que tal **amigos** este es parte de mi carrera o trayectoria como **Desarrollador Web**
 
 
 
